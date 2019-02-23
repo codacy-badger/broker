@@ -1,4 +1,7 @@
 # Paraffin Broker service
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ParaffinIoT/broker.svg)](https://greenkeeper.io/)
+
 Paraffin HTTP/MQTT/CoAP Broker is based on Ponte and service REST API for IoT or Internet of Things.
 
 ## Installation
